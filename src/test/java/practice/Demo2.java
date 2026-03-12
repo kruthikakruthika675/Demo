@@ -7,6 +7,8 @@ public class Demo2 {
 		System.out.println("Practicing pull Operation");
 		System.out.println("Performing project request by creating new branch");
 		System.out.println("Hello, Welcome Automation Test Engineer");
+		System.out.println("Practicing git conflict from Framework Engineer Workspace");
+		
 	}
 	
 	
